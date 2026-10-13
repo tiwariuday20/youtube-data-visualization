@@ -101,3 +101,6 @@ Check the original dataset's license and terms before redistributing its content
 ## Author
 
 Created as part of my data science and Python learning journey.
+## Run in Google Colab
+
+[Open Notebook in Google Colab](https://colab.research.google.com/drive/1u33_roI7dpV5OBcGNDpb8NcdrHPDpsap?usp=sharing)
